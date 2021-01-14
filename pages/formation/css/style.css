@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 10px 10px 80px 40px rgba(0,0,0,0.3);
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+h1 {
+    margin-top: 20%;
+}
+
+#title {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.605);
+}
+
+h2 {
+    margin-top: -13%;
+}

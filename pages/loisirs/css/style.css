@@ -1,0 +1,15 @@
+body, html {
+    position: fixed;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+h2 {
+    margin-top: -10%;
+}
+
+#particles-js {
+    position: relative;
+}
